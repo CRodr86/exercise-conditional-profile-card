@@ -1,4 +1,6 @@
-<img src="./assets/img/4geeks.jpg">
+<p align="center">
+  <img src="./public/assets/img/4geeks.jpg">
+</p>
 
 ------------
 
